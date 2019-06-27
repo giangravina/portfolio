@@ -1,0 +1,181 @@
+* {
+	font-family: "sans-serif" ;
+}
+
+.jumbotron {
+	background-image: url('http://www.jackrussellsoftware.com/wp-content/uploads/2014/08/code_banner.jpg');
+	padding: 20%;
+	background-size: no-repeat;
+	background-size: cover;
+	width: 100%;
+   	margin-top:-40px;
+	background-attachment: fixed;
+	background-position: center -238px;
+}
+
+
+
+.jumbotron h1 {
+	position: absolute;
+	bottom:22x;
+	left:0;
+	margin-left: 20px;
+	color: #F7FAFE;
+}
+
+.jumbotron h1 {
+	color:white;
+}
+
+.jumbotron h2 {
+	text-align: left;
+	color: white;
+}
+
+.lead {
+	color: white;
+}
+
+.jumbotron p {
+	color: white;
+}
+
+.form-group {
+	margin-left:auto;
+   	margin-right:auto;
+   	width:50%;
+}
+
+.submit {
+	text-align: center;
+}
+.about {
+	text-align: center;
+	padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+
+.about p {
+
+	width: 50%;
+	padding-top: 40px;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.project {
+	text-align: center;
+	padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+
+.row h3 {
+	text-align: center;
+}
+
+.row p {
+	font-size: 12px;
+	text-align: center;
+}
+
+
+#nav-bar
+{
+	top: 0;
+	z-indez: 10;
+	text-decoration-color: white;
+
+}
+
+.navbar
+{
+	background-image: linear-gradient(to right, #19022C, #19022C);
+	padding: 0 !important;
+}
+
+
+.navbar-nav li
+{
+	padding: 0 10px;
+}
+
+.navbar-nav li a
+{
+	color: #fff !important;
+	font-weight: 600;
+	float: right;
+	text-align: right;
+}
+
+.fa-bars
+{
+	color: #fff;
+	font-size:30px !important;
+
+}
+
+
+.navbar-toggler {
+	outline: none !important;
+	align-content: left;
+}
+}
+
+
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+
+.contact {
+	text-align: center;
+	padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+
+.submit {
+	padding-bottom: 50px;
+}
+
+.project {
+	color:black;
+}
+
+.project p {
+	text-align: center;
+	width: 50%;
+}
+
+footer {
+	background-color: #19022C;
+	position: absolute;
+	width:100%;
+	height:auto;
+}
+
+footer ul li {
+	display:inline-block;
+	list-style: none;
+	padding: 2%;
+	float:right;
+}
+
+footer p {
+	float: left;
+	padding: 2%;
+}
+
+footer a,
+footer p {
+	color: #fff;
+	vertical-align: middle;
+}
+
+
